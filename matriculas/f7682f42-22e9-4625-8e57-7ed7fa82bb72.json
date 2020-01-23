@@ -1,0 +1,61 @@
+{
+  "numero": "f7682f42-22e9-4625-8e57-7ed7fa82bb72",
+  "Fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 18,
+    "second": 55
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "cedula": "154654623",
+    "apellido": "Coque ",
+    "nombre": "Stalin"
+  },
+  "curso": {
+    "titulo": "Robotica",
+    "costo": 140.0,
+    "descripcion": "Aprende diseñar circuitos y armar robots desde cero"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 19,
+        "second": 14
+      },
+      "valor": 14.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 19,
+        "second": 16
+      },
+      "valor": 14.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 19,
+        "second": 33
+      },
+      "valor": 15.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.333333
+}

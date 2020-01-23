@@ -1,0 +1,61 @@
+{
+  "numero": "66b6a536-c983-4f00-92e4-12b6f5b73b56",
+  "Fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 5,
+    "second": 47
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "cedula": "065465165",
+    "apellido": "Valeria ",
+    "nombre": "Vallesteros"
+  },
+  "curso": {
+    "titulo": "Cocina",
+    "costo": 110.0,
+    "descripcion": "Aprende a preparar platos de comida como un chef"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 7,
+        "second": 32
+      },
+      "valor": 13.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 7,
+        "second": 37
+      },
+      "valor": 20.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 7,
+        "second": 44
+      },
+      "valor": 12.3,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 15.099999
+}

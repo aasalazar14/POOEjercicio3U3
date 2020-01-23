@@ -1,0 +1,61 @@
+{
+  "numero": "3a14cc78-8fc5-428b-8c02-4cd5cabfb638",
+  "Fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 6,
+    "second": 0
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "cedula": "0506146514",
+    "apellido": "Perez",
+    "nombre": "Rosa"
+  },
+  "curso": {
+    "titulo": "Emprendimiento",
+    "costo": 200.0,
+    "descripcion": "Aprende a gestionar negocios desde cero y ser un empresario"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 6,
+        "second": 44
+      },
+      "valor": 11.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 6,
+        "second": 49
+      },
+      "valor": 12.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 6,
+        "second": 55
+      },
+      "valor": 13.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 12.0
+}

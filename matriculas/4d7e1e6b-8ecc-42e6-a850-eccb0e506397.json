@@ -1,0 +1,61 @@
+{
+  "numero": "4d7e1e6b-8ecc-42e6-a850-eccb0e506397",
+  "Fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 17,
+    "second": 18
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "cedula": "116161656",
+    "apellido": "Reyes",
+    "nombre": "Lizzeth"
+  },
+  "curso": {
+    "titulo": "Informatica",
+    "costo": 120.0,
+    "descripcion": "Aprende a programar en distintos lenguajes"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 18,
+        "second": 9
+      },
+      "valor": 9.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 18,
+        "second": 14
+      },
+      "valor": 20.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 18,
+        "second": 18
+      },
+      "valor": 20.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 16.333334
+}

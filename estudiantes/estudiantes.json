@@ -1,0 +1,142 @@
+[
+  {
+    "carrera": "Ingenieria Automotriz",
+    "clubes": [
+      "",
+      "Club de danza",
+      "",
+      "Club de música",
+      "Club de robotica",
+      ""
+    ],
+    "cedula": "05019743645",
+    "apellido": "Adrian ",
+    "nombre": "Salazar"
+  },
+  {
+    "carrera": "Medicina",
+    "clubes": [
+      "",
+      "Club de danza",
+      "",
+      "Club de música",
+      "Club de robotica",
+      ""
+    ],
+    "cedula": "065465165",
+    "apellido": "Valeria ",
+    "nombre": "Vallesteros"
+  },
+  {
+    "carrera": "Ingenieria Automotriz",
+    "clubes": [
+      "",
+      "Club de danza",
+      "",
+      "Club de música",
+      "Club de robotica",
+      ""
+    ],
+    "cedula": "0506146514",
+    "apellido": "Perez",
+    "nombre": "Rosa"
+  },
+  {
+    "carrera": "Medicina",
+    "clubes": [
+      "",
+      "Club de danza",
+      "Club de karate",
+      "Club de música",
+      "",
+      "Club de tenis "
+    ],
+    "cedula": "1316516565",
+    "apellido": "Juan",
+    "nombre": "Lozada"
+  },
+  {
+    "carrera": "Medicina",
+    "clubes": [
+      "",
+      "Club de danza",
+      "Club de karate",
+      "",
+      "Club de robotica",
+      ""
+    ],
+    "cedula": "26684849849",
+    "apellido": "Salazar ",
+    "nombre": "Alex"
+  },
+  {
+    "carrera": "Derecho ",
+    "clubes": [
+      "Club de canto",
+      "Club de danza",
+      "",
+      "",
+      "Club de robotica",
+      ""
+    ],
+    "cedula": "165416456",
+    "apellido": "Osorio",
+    "nombre": "Daniela"
+  },
+  {
+    "carrera": "Ingenieria Automotriz",
+    "clubes": [
+      "",
+      "Club de danza",
+      "",
+      "Club de música",
+      "Club de robotica",
+      ""
+    ],
+    "cedula": "6565846468",
+    "apellido": "Vera",
+    "nombre": "Lucho"
+  },
+  {
+    "carrera": "Derecho ",
+    "clubes": [
+      "",
+      "",
+      "Club de karate",
+      "Club de música",
+      "",
+      ""
+    ],
+    "cedula": "4646545465465",
+    "apellido": "Perez ",
+    "nombre": "Karen"
+  },
+  {
+    "carrera": "Medicina",
+    "clubes": [
+      "Club de canto",
+      "Club de danza",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "cedula": "116161656",
+    "apellido": "Reyes",
+    "nombre": "Lizzeth"
+  },
+  {
+    "carrera": "Ingenieria Automotriz",
+    "clubes": [
+      "",
+      "",
+      "Club de karate",
+      "Club de música",
+      "",
+      ""
+    ],
+    "cedula": "154654623",
+    "apellido": "Coque ",
+    "nombre": "Stalin"
+  }
+]

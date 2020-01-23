@@ -1,0 +1,61 @@
+{
+  "numero": "750ba7bb-21f9-4b59-8fb6-ef7b3222968d",
+  "Fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 11,
+    "second": 59
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "cedula": "165416456",
+    "apellido": "Osorio",
+    "nombre": "Daniela"
+  },
+  "curso": {
+    "titulo": "Cocina",
+    "costo": 110.0,
+    "descripcion": "Aprende a preparar platos de comida como un chef"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 12,
+        "second": 31
+      },
+      "valor": 15.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 12,
+        "second": 39
+      },
+      "valor": 17.35,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 12,
+        "second": 43
+      },
+      "valor": 12.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.783333
+}

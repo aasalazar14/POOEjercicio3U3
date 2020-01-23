@@ -1,0 +1,61 @@
+{
+  "numero": "4d5bb5ec-9965-4a0c-a176-3932420bd0ee",
+  "Fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 8,
+    "second": 44
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "cedula": "1316516565",
+    "apellido": "Juan",
+    "nombre": "Lozada"
+  },
+  "curso": {
+    "titulo": "Robotica",
+    "costo": 140.0,
+    "descripcion": "Aprende diseñar circuitos y armar robots desde cero"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 9,
+        "second": 26
+      },
+      "valor": 17.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 9,
+        "second": 29
+      },
+      "valor": 20.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 9,
+        "second": 37
+      },
+      "valor": 13.2,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 16.733334
+}

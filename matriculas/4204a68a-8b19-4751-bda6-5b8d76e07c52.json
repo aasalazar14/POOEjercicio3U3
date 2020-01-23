@@ -1,0 +1,61 @@
+{
+  "numero": "4204a68a-8b19-4751-bda6-5b8d76e07c52",
+  "Fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 10,
+    "second": 32
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "cedula": "26684849849",
+    "apellido": "Salazar ",
+    "nombre": "Alex"
+  },
+  "curso": {
+    "titulo": "Matemáticas",
+    "costo": 150.0,
+    "descripcion": "Aprende calculo diferencial y algebra"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 10,
+        "second": 58
+      },
+      "valor": 7.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 11,
+        "second": 4
+      },
+      "valor": 10.2,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 11,
+        "second": 8
+      },
+      "valor": 20.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 12.400001
+}

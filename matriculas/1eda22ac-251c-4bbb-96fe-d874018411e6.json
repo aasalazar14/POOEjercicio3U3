@@ -1,0 +1,61 @@
+{
+  "numero": "1eda22ac-251c-4bbb-96fe-d874018411e6",
+  "Fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 15,
+    "second": 37
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "cedula": "4646545465465",
+    "apellido": "Perez ",
+    "nombre": "Karen"
+  },
+  "curso": {
+    "titulo": "Cocina",
+    "costo": 110.0,
+    "descripcion": "Aprende a preparar platos de comida como un chef"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 16,
+        "second": 28
+      },
+      "valor": 10.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 16,
+        "second": 32
+      },
+      "valor": 20.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 16,
+        "second": 38
+      },
+      "valor": 14.2,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.733334
+}
